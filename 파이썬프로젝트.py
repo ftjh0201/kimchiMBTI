@@ -1,11 +1,11 @@
 import tkinter
 window=tkinter.Tk()
-window.title("파이썬 프로젝트")
+window.title("")
 window.geometry("320x200+100+100")
 window.resizable(False, False)
 frame1 = tkinter.Frame(window, relief="solid", bd=2)
 frame2 = tkinter.Frame(window, relief="solid", bd=2)
-frame1.pack(side='left')
+frame1.pack(side=e)
 frame2.pack()
 
 
